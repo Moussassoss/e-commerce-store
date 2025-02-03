@@ -45,7 +45,6 @@ a {
     transition: all .3s ease-in-out;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -62,7 +61,15 @@ h6 {
 }
 
 h1 {
-    font-size: 24px
+    letter-spacing: 0;
+    font-weight: normal;
+    position: relative;
+    padding: 0 0 10px 0;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+    color: #ffffff;
+    margin: 0
 }
 
 h2 {
