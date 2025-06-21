@@ -4,7 +4,7 @@ A modern, responsive, and customizable e-commerce store template built with **HT
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://github.com/Moussassoss/e-commerce-store.io)
+👉 [View Live Demo](https://moussassoss.github.io/e-commerce-store/)
 
 ## 📦 Features
 
