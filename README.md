@@ -26,7 +26,7 @@ A modern, responsive, and customizable e-commerce store template built with **HT
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/e-commerce-store-template.git
+git clone https://github.com/Moussassoss/e-commerce-store.git
 ```
 2. Open index.html in your browser.
 
